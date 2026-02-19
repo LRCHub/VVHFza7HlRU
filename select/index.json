@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "宝石の日々",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-02-19T00:17:11.854383Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宝石の日々",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/01_宝石の日々_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宝石の日々",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/02_宝石の日々_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宝石の日々 - irreplaceable days",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/03_宝石の日々_-_irreplaceable_days_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宝石の日々",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_宝石の日々_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
